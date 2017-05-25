@@ -1,0 +1,11 @@
+imap jj <ESC>
+nmap :NT :NERDTree
+
+" Pathogen
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+
+:autocmd InsertEnter * set cul
+:autocmd InsertLeave * set nocul
+
