@@ -15,11 +15,11 @@ sudo apt-get install zshell
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-### RANDOM PYTHON LIBRARIES
+### RANDOM PYTHON
 pip install -r requirements.txt
 
 # Stuff
-* [Reprap StepStick control](https://github.com/b38tn1k/BeagleBoneStuff/blob/master/stepper.py)
+* --[Reprap StepStick control](https://github.com/b38tn1k/BeagleBoneStuff/blob/master/stepper.py)--
 * [Servo control](https://github.com/b38tn1k/BeagleBoneStuff/blob/master/servo.py)
 
 TBC...
